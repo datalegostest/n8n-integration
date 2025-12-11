@@ -1,1 +1,1 @@
-Hello from n8n! This file was created automatically.
+Updated file content from n8n workflow.
